@@ -27,7 +27,7 @@ I’m Cristina, a backend engineer. I see myself more as fixer. Give me a proble
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Jasper-informational?style=flat&logo=Jasper&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JasperReports-informational?style=flat&logo=JasperReports&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
